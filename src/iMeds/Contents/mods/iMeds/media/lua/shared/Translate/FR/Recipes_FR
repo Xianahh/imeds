@@ -1,0 +1,4 @@
+Recipe_FR = {
+	Recipe_Disinfect_Blood_Bag = "Désinfecter la poche de sang",
+	Recipe_Clean_Blood_Bag = "Nettoyer la poche de sang",
+}
